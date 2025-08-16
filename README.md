@@ -10,6 +10,8 @@ The Serverless Image Processing solution supports a simple serverless architectu
 2. AWS Lambda Function: The event created in S3 automatically triggers the Lambda function. This function processes the image (resize or watermark) and stores it in the destination bucket.
 3. Amazon S3 (Processed Bucket): The processed output is stored in this bucket.
 
+![image](MedPrompt.png)
+
 
 
 
