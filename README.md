@@ -13,6 +13,9 @@ The Serverless Image Processing solution supports a simple serverless architectu
 ![image](Default_Architecture.png)
 
 # Deployment (Console Steps):
+## 1. Create S3 Buckets
+
+
 
 
 
