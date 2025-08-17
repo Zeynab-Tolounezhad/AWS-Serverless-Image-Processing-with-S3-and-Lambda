@@ -12,6 +12,8 @@ The Serverless Image Processing solution supports a simple serverless architectu
 
 ![image](DefaultArchitecture.png)
 
+# Deployment (Console Steps):
+
 
 
 
